@@ -1,0 +1,9 @@
+s = []
+s.append('sklm')
+s.append('vzm')
+s.append('vsp')
+s.append('e.g')
+s.append('wg')
+print(s)
+s.sort(reverse =False)
+print(s)
